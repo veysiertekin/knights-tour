@@ -10,10 +10,10 @@ Actually i wrote in Turkish(my native lang.). If i have time, i will implement t
 
 Screenshots:
 
-[[File:img/screenshot.1.png|frame|After establishing a knight via mouse' click]]
+[[File:img/screenshot.1.png|thumb|After establishing a knight via mouse' click]]
 
-[[File:img/screenshot.2.png|frame|After resolving problem(shows estimated time)]]
+[[File:img/screenshot.2.png|thumb|After resolving problem(shows estimated time)]]
 
-[[File:img/screenshot.3.png|frame|Knight automatically processes on the board via play button]]
+[[File:img/screenshot.3.png|thumb|Knight automatically processes on the board via play button]]
 
-[[File:img/screenshot.4.png|frame|Final state]]
+[[File:img/screenshot.4.png|thumb|Final state]]
