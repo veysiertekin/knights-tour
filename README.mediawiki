@@ -3,8 +3,8 @@ This project was created as an Ecipse Project during my AI class.
 You can find more detail about the actual problem here: [http://en.wikipedia.org/wiki/Knight's_tour Knight's tour]
 
 * Two solution of this problem was implemented
-*# Depth first search (blind search algorithm) [http://en.wikipedia.org/wiki/Depth-first_search (Depth-first search)]
-*# Warnsdorff's rule (heuristic algorithm) [http://warnsdorff.com/ (Warnsdorff's Rule)]
+*# Depth first search [aka a blind search algorithm] [http://en.wikipedia.org/wiki/Depth-first_search (Depth-first search)]
+*# Warnsdorff's rule [aka a heuristic algorithm] [http://warnsdorff.com/ (Warnsdorff's Rule)]
 
 Actually i wrote in Turkish(my native lang.). If i have time, i will implement to i18n version but if you contribute to project, you're welcome :-)
 
@@ -12,8 +12,11 @@ Screenshots:
 
 [[File:img/screenshot.1.png|thumb|After establishing a knight via mouse' click]]
 
+
 [[File:img/screenshot.2.png|thumb|After resolving problem(shows estimated time)]]
 
+
 [[File:img/screenshot.3.png|thumb|Knight automatically processes on the board via play button]]
+
 
 [[File:img/screenshot.4.png|thumb|Final state]]
