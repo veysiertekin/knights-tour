@@ -1,3 +1,5 @@
+Knights-tour 
+
 This project was created as an Ecipse Project during my AI class.
 
 You can find more detail about the actual problem here: [http://en.wikipedia.org/wiki/Knight's_tour Knight's tour]
