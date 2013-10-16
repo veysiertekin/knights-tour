@@ -1,4 +1,5 @@
 Knights-tour 
+--
 
 This project was created as an Ecipse Project during my AI class.
 
