@@ -23,3 +23,5 @@ Screenshots:
 
 
 [[File:img/screenshot.4.png|thumb|Final state]]
+
+<a href="https://plus.google.com/+VeysiErtekin?rel=author">&nbsp;</a>
