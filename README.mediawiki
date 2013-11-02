@@ -16,10 +16,13 @@ Screenshots:
 [[File:img/screenshot.1.png|thumb|After establishing a knight via mouse' click]]
 
 
+
 [[File:img/screenshot.2.png|thumb|After resolving problem(shows estimated time)]]
 
 
+
 [[File:img/screenshot.3.png|thumb|Knight automatically processes on the board via play button]]
+
 
 
 [[File:img/screenshot.4.png|thumb|Final state]]
