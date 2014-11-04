@@ -9,22 +9,19 @@ You can find more detail about the actual problem here: [http://en.wikipedia.org
 *# [http://en.wikipedia.org/wiki/Depth-first_search Depth-first search] (aka a blind search algorithm)
 *# [http://warnsdorff.com/ Warnsdorff's Rule] (aka a heuristic algorithm) 
 
-Actually i wrote in Turkish(my native lang.). If i have time, i will implement to i18n version but if you contribute to project, you're welcome :-)
+If i have time, i will implement to i18n version but if you contribute to project, you're welcome.
 
-Screenshots:
-
-[[File:img/screenshot.1.png|thumb|After establishing a knight via mouse' click]]
-
-
-
-[[File:img/screenshot.2.png|thumb|After resolving problem(shows estimated time)]]
-
-
-
-[[File:img/screenshot.3.png|thumb|Knight automatically processes on the board via play button]]
-
-
-
-[[File:img/screenshot.4.png|thumb|Final state]]
-
+<br>
+(1) After establishing a knight via mouse' click<br>
+<img src="img/screenshot.1.png" alt="(1) After establishing a knight via mouse' click" >
+<br><br>
+(2) After resolving problem(shows estimated time)<br>
+<img src="img/screenshot.2.png" alt="(2) After resolving problem(shows estimated time)" >
+<br><br>
+(3) Knight automatically processes on the board via play button<br>
+<img src="img/screenshot.3.png" alt="(3) Knight automatically processes on the board via play button" >
+<br><br>
+(4) Final state<br>
+<img src="img/screenshot.4.png" alt="(4) Final state" >
+<br><br>
 <a href="https://plus.google.com/+VeysiErtekin?rel=author">&nbsp;</a>
