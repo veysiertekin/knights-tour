@@ -14,7 +14,7 @@ If i have time, i will implement to i18n version but if you contribute to projec
 (1) After establishing a knight via mouse' click<br>
 <img src="img/screenshot.1.png" alt="(1) After establishing a knight via mouse' click" >
 <br><br>
-(2) After resolving problem(shows estimated time)<br>
+(2) After resolving problem [Ctrl+F](shows estimated time)<br>
 <img src="img/screenshot.2.png" alt="(2) After resolving problem(shows estimated time)" >
 <br><br>
 (3) Knight automatically processes on the board via play button<br>
